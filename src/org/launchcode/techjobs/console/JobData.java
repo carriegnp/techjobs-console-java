@@ -104,9 +104,7 @@ public class JobData {
         return jobs;
     }
 
-    /**
-     * Read in data from a CSV file and store it in a list
-     */
+
     private static void loadData() {
 
         // Only load data once
